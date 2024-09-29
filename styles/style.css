@@ -142,6 +142,10 @@
   padding: 179px 24px 146px 24px;
 }
 
+.card-link {
+  text-decoration: none;
+}
+
 .lots__heading {
   padding-bottom: 27px;
   padding-left: 40px;
